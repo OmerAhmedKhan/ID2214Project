@@ -1,0 +1,5 @@
+[{"finger": "thumb", "device_address": "00:0E:0E:15:44:3A"},
+{"finger": "index finger", "device_address": "00:0E:0E:0D:7A:E0" },
+{"finger": "middle finger", "device_address": "00:0E:0E:0D:7B:0A"},
+{"finger": "ring finger", "device_address": "00:0E:0E:0D:77:9D"},
+{"finger": "pinky", "device_address": "00:0E:0E:0D:7B:01"}]
